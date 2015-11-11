@@ -1,6 +1,6 @@
 &#8226; 移 动 分 享：
 <a href="http://22.dynssl.com/c/" target="_blank">网址一</a>
-　<a href="http://udn22.tk/b/" target="_blank">网址二</a>
+　<a href="http://udn22.tk/s/" target="_blank">网址二</a>
 　<a href="http://d7.dnsrd.com/s/" target="_blank">网址三</a>
 　<br />
 &#8226; 24小时-全球要闻：<br /> 
